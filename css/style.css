@@ -122,9 +122,9 @@ body,html{
 }
 .next{
   height: 17px;
-  width: 100%;
+  width: 48%;
   position: absolute;
-  left: 0;
+  left: 23%;
   bottom: 6.5%;
   z-index:20000;
   text-align: center;

@@ -101,7 +101,7 @@ if ($err) {
 		                    <div class="page-2-item">
 		                        <span class="sp3">手&nbsp;&nbsp;机：</span>
 		                        <div class="input">
-		                        		<input type="number" name="phone" id="phone" placeholder="请填写手机号码">
+		                        		<input type="text" name="phone" id="phone" placeholder="请填写手机号码">
 		                        </div>
 		                    </div>
 		                    <div class="page-2-item">
