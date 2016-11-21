@@ -143,8 +143,7 @@ if ($err) {
 		            <div class="textInfo">
 		                 您的个人资料有可能会提交至路虎厂商的授权经销商客服与您进一步沟通试驾、购车等事宜。    
 		            </div>
-		            </div>
-		        		<div class="btn">马上报名</div>
+		        	    <div class="btn">马上报名</div>
 		        		<div class="next nextPage text">
 						<img src="img/jt.png"/>
 					</div>
