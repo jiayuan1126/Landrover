@@ -198,7 +198,7 @@ body,html{
 #pages .page2 .input{
 	width: 62%;
     height: 100%;
-    background-color: #fff;
+    background-color: #fafafa;
     border: solid 1px #d3d2cf;
     border-radius: 5px;
     padding-left: 6px;
@@ -209,13 +209,12 @@ body,html{
     font-size: 0.6rem;
 }
 #pages .page2 input,#pages .page2 select{
-	background-color: #FFF;
+	background-color: #fafafa;
     border-radius: 5px;
     display: block;
     height: 100%;
     width: 95%;
     appearance: none;
-    -moz-appearance: none;
     -webkit-appearance: none;
     color: #969696;
 }
