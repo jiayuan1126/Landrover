@@ -66,7 +66,7 @@ if ($err) {
 		<div id="yidian_share_title" class="yidianShare" style="display:none;">发现基因 与生俱来，路虎之境从发现神行开始。</div>
 		<div id="yidian_share_content" class="yidianShare" style="display:none;"></div>
 		<div id="yidian_share_url" class="yidianShare" style="display:none;">http://t1.toptest.yidianzixun.com/2016/Landrover/app.php</div>
-		<div id="yidian_share_imageurl" class="yidianShare" style="display:none;">http://tstatic.toptest.yidianzixun.com.ks3-cn-beijing.ksyun.com/public/files/share1479657975069.jpg</div>
+		<div id="yidian_share_imageurl" class="yidianShare" style="display:none;">http://tstatic.toptest.yidianzixun.com.ks3-cn-beijing.ksyun.com/public/files/share1479660532059.jpg</div>
 		<!-- end -->
 		<div style="display: none;" id="timestamp" class="wxShare"><?php echo $timestamp; ?></div>
 		<div style="display: none;" id="nonceStr" class="wxShare"><?php echo $nonceStr; ?></div>
