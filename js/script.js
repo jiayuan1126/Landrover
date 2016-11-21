@@ -1,9 +1,12 @@
+window.onload=function(){
+	$(".loading").hide().remove();
+}
 $(function(){
 	$("body").css('height',$(window).height());
 	$("body").css('width',$(window).width());
 	var mySwiper = new Swiper('#pages',{
 		direction : 'vertical',
-		speed:700,
+		speed:400
 	});
 	var page4Swiper = new Swiper('#page4Box',{
 		direction : 'horizontal',

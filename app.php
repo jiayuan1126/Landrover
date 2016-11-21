@@ -71,6 +71,7 @@ if ($err) {
 		<div style="display: none;" id="timestamp" class="wxShare"><?php echo $timestamp; ?></div>
 		<div style="display: none;" id="nonceStr" class="wxShare"><?php echo $nonceStr; ?></div>
 		<div style="display: none;" id="signature" class="wxShare"><?php echo $signature; ?></div>
+		<div id="loading" class="loading"></div>
 		<div id="pages" class="swiper-container">
 			<div class="swiper-wrapper pageCommon">
 				<div class="swiper-slide page1">
@@ -132,11 +133,18 @@ if ($err) {
 		                    </div>
 		        		</div>
 		        		 <div class="textCheckbox">
-		                        <div class="gou">
-		                            <img data-flag='true' src="img/page2/gou1.png">
-		                        </div>
-		                    </div>
-		        		<div class="btn"></div>
+                        <div class="gou">
+                            <img data-flag='true' src="img/page2/gou1.png">
+                        </div>
+                        <div class="zi">
+                            我已阅读并接受隐私条款
+                        </div>
+		            </div>
+		            <div class="textInfo">
+		                 您的个人资料有可能会提交至路虎厂商的授权经销商客服与您进一步沟通试驾、购车等事宜。    
+		            </div>
+		            </div>
+		        		<div class="btn">马上报名</div>
 		        		<div class="next nextPage text">
 						<img src="img/jt.png"/>
 					</div>
@@ -171,9 +179,6 @@ if ($err) {
 		        			</div>
 		        			<div id="fenye2" class="fenye2"></div>
 		        		</div>
-		        		<div class="next nextPage text">
-						<img src="img/jt.png"/>
-					</div>
 	        		</div>
 			</div>
 		</div>
